@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Hosting server for LeadMe Labs Launcher",
+  "description": "Development hosting server for LeadMe Labs Launcher",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
