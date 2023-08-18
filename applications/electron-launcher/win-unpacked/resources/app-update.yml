@@ -1,3 +1,0 @@
-provider: generic
-url: https://electronlauncher.herokuapp.com/static/electron-launcher
-updaterCacheDirName: leadme-updater
