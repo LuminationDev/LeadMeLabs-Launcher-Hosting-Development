@@ -1,8 +1,8 @@
-version: 1.2.23
+version: 1.2.26
 files:
-  - url: LeadMe Setup 1.2.23.exe
-    sha512: ERF3cOwtP/JPfOhCI1DyqgGfz2tCdOzkhPAuy6mpThO/I7ZUTHw/E3SST8vzR5c7EbhqI26EcFyg4kDnEGG2zQ==
-    size: 71818545
-path: LeadMe Setup 1.2.23.exe
-sha512: ERF3cOwtP/JPfOhCI1DyqgGfz2tCdOzkhPAuy6mpThO/I7ZUTHw/E3SST8vzR5c7EbhqI26EcFyg4kDnEGG2zQ==
-releaseDate: '2024-01-24T03:13:50.865Z'
+  - url: LeadMe Setup 1.2.26.exe
+    sha512: 2Q1jUrFI09VandlqhdsQeWtyUI+DF2BN2E4S9oHSllKVmA4JjdaVdM1JO/ZenFLYj+pb2syYB5UMVX7qQ5B0IQ==
+    size: 71885488
+path: LeadMe Setup 1.2.26.exe
+sha512: 2Q1jUrFI09VandlqhdsQeWtyUI+DF2BN2E4S9oHSllKVmA4JjdaVdM1JO/ZenFLYj+pb2syYB5UMVX7qQ5B0IQ==
+releaseDate: '2024-02-21T02:46:31.489Z'
