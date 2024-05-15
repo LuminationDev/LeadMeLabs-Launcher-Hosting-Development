@@ -1,5 +1,3 @@
 provider: generic
-url: https://electronlauncher.herokuapp.com/static/electron-launcher
+url: https://leadme-tools.sgp1.vultrobjects.com/leadme-launcher
 updaterCacheDirName: leadme-updater
-publisherName:
-  - Technology for Education Solutions Pty. Ltd.
