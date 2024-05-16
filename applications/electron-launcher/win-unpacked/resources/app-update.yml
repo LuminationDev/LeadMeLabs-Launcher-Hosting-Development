@@ -1,3 +1,5 @@
 provider: generic
 url: https://leadme-tools.sgp1.vultrobjects.com/leadme-launcher
 updaterCacheDirName: leadme-updater
+publisherName:
+  - Technology for Education Solutions Pty. Ltd.
